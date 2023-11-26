@@ -1,0 +1,29 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    padding: 200px;
+    background-image: url('Screenshot\ 2023-11-22\ 113642.png'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 305px;
+    width: 1135px;
+
+  }
+  
+  h2 {
+    color: #fff; /* Set text color to make it readable on the background */
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  /* Style for the buttons */
+  .Button {
+    margin-right: 10px;
+  }
+  
+  /* Add more styles based on your design preferences */
+  

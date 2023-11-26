@@ -1,0 +1,38 @@
+/* Admin.css */
+
+
+  .admin-container {
+    padding: 20px;
+    font-style: italic;
+    color: black;
+  }
+  
+  h1 {
+    margin-bottom: 50px;
+    color: rgb(14, 14, 14);
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    
+  }
+  
+  /* Style for the form */
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Style for the text fields */
+  TextField {
+    margin-bottom: 15px;
+    border-color: black;
+   
+  }
+  input[type=text]:focus{
+    background-color: rgb(205, 205, 188);
+    border: 3px solid #363333;
+  }
+  /* Style for the button */
+  Button {
+    align-self: flex-start;
+  }
+  

@@ -1,0 +1,27 @@
+/* User.css */
+h1{
+  color:black;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  /* justify-content: space-around; */
+  gap: 40px;
+  margin-top: 10px;
+  padding: auto;
+  color: bisque;
+  
+}
+body {
+  margin: 0;
+  padding: 30px;
+  font-family: 'Arial', sans-serif;
+  background-image: url('Screenshot\ 2023-11-22\ 135215.png');
+   /* Replace with your background image path */
+  background-size: cover;
+  background-position: center;
+  color: #fff; /* Set text color to make it readable on the background */
+}
+
+/* Add more styles as needed */
